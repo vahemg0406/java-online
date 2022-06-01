@@ -5,6 +5,9 @@ public class Lesson1 {
         long x;
         x=5441146846849848l;
         System.out.println(x);
+        System.out.println(x);
+        System.out.println(x);
+
 
         float a=2.5f;
         double s=456.22;
