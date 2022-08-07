@@ -13,7 +13,7 @@ public class Test {
         System.out.println(Human.a);
         Student s1 = new Student("Vahe");
         s1.sum(4, 5);
-        Student s2 = new Student("Qoso");
+        Student s2 = new Student("q");
         s2.sum(4, 5);
         Student.sum(4, 6);
 
